@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hardik Rohilla
 - 👀 I’m interested in C++, Python, Machine Learning
-- 🌱 I’m currently learning Python, Competitive Coding
+- 🌱 I’m currently learning Machine Learning, Competitive Coding
 - 📫 You can reach me at my email - hardik2000rohilla@gmail.com
 
 <!---
